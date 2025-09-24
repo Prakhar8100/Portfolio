@@ -704,7 +704,7 @@ function App() {
               <i className="bi bi-geo-alt-fill"></i>
             </div>
             <div className="col-11">
-              <p>121 King Street Melbourne, 3000, Australia</p>
+              <p>Sector-56,Noida,Uttar Pradesh</p>
             </div>
           </div>
           <div className="row justify-content-evenly">
@@ -712,7 +712,7 @@ function App() {
               <i className="bi bi-telephone-fill"></i>
             </div>
             <div className="col-11">
-              <p>+91 9527818693</p>
+              <p>+91 7052432609</p>
             </div>
           </div>
           <div className="row justify-content-evenly">
@@ -720,7 +720,7 @@ function App() {
               <i className="bi bi-send-fill"></i>
             </div>
             <div className="col-11">
-              <p>codewithpawan@gmail.com</p>
+              <p>prakhar81005034@gmail.com</p>
             </div>
           </div>
           <div className="row justify-content-evenly">
@@ -728,7 +728,7 @@ function App() {
               <i className="bi bi-globe-americas"></i>
             </div>
             <div className="col-11">
-              <p>codingpawan.com</p>
+              <p>https://github.com/Prakhar8100</p>
             </div>
           </div>
         </div>
@@ -799,14 +799,11 @@ function App() {
         <a href="#contact">Contact</a>
       </div>
       <div className="social-links mt-5" data-aos="fade-up">
-        <button href="" className="rounded-pill dribble">
+        <button href="https://www.linkedin.com/in/prakhar-srivastava-073b06299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="rounded-pill dribble">
           <i className="bi bi-dribbble"></i>
         </button>
-        <button href="" className="rounded-pill whatsapp">
+        <button href="7052432609" className="rounded-pill whatsapp">
           <i className="bi bi-whatsapp"></i>
-        </button>
-        <button href="" className="rounded-pill behance">
-          <i className="bi bi-behance"></i>
         </button>
       </div>
       <hr className="text-muted my-4" />
