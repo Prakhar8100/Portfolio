@@ -46,7 +46,7 @@ function App() {
             </li>
           </ul>
         </div>
-        <button className="c-btn ms-4 py-2 px-4 rounded-pill d-none d-md-block">Contact</button>
+        <button href="#contact" className="c-btn ms-4 py-2 px-4 rounded-pill d-none d-md-block">Contact</button>
       </div>
     </nav>
     <section className="home pt-5 pb-5" id="home">
@@ -808,7 +808,7 @@ function App() {
       </div>
       <hr className="text-muted my-4" />
 
-      <p>Copyright 2022 Portfolio | All Rights Reserved.</p>
+      <p>Copyright 2024 Portfolio | All Rights Reserved.</p>
     </footer>
 
     </>
