@@ -91,10 +91,10 @@ function App() {
               />
             </div>
             <div className="content mt-3">
-              <h4>Web Design</h4>
+              <h4>Backend Development</h4>
               <p className="text-muted">
-                Dolor repellendus temporibus autem quibusdam officiis debitis
-                rerum neces aibus minima veniam.
+              Focuses on server-side logic, database management, API integration, and performance optimization to ensure robust and scalable web applications.
+
               </p>
               <a href="" className="link">Read More</a>
             </div>
@@ -110,10 +110,9 @@ function App() {
               />
             </div>
             <div className="content mt-3">
-              <h4>Web Development</h4>
+              <h4>Frontend Development</h4>
               <p className="text-muted">
-                Dolor repellendus temporibus autem quibusdam officiis debitis
-                rerum neces aibus minima veniam.
+              Involves crafting user interfaces, implementing responsive design, and enhancing user experience through HTML, CSS, JavaScript, and modern frameworks like React or Vue.js.
               </p>
               <a href="" className="link">Read More</a>
             </div>
@@ -131,8 +130,7 @@ function App() {
             <div className="content mt-3">
               <h4>Debugging</h4>
               <p className="text-muted">
-                Dolor repellendus temporibus autem quibusdam officiis debitis
-                rerum neces aibus minima veniam.
+                Skilled in diagnosing and fixing frontend and backend issues using tools like DevTools, Postman, and IDE debuggers to ensure smooth, reliable performance.
               </p>
               <a href="" className="link">Read More</a>
             </div>
@@ -146,7 +144,7 @@ function App() {
           <div className="row justify-content-evenly">
             <div className="col-10 col-md-6">
               <div className="progress-card ms-3 ms-md-0">
-                <div className="circular-progress html-css">
+                <div className="circular-progress p90">
                   <span className="progress-value html-progress">90%</span>
                 </div>
                 <br />
@@ -155,7 +153,7 @@ function App() {
             </div>
             <div className="col-10 col-md-6 mt-4 mt-md-0">
               <div className="progress-card ms-3 ms-md-0">
-                <div className="circular-progress javascript">
+                <div className="circular-progress p80">
                   <span className="progress-value javascript-progress">80%</span>
                 </div>
                 <br />
@@ -166,7 +164,7 @@ function App() {
           <div className="row justify-content-evenly mt-4">
             <div className="col-10 col-md-6">
               <div className="progress-card ms-3 ms-md-0">
-                <div className="circular-progress php">
+                <div className="circular-progress p60">
                   <span className="progress-value php-progress">60%</span>
                 </div>
                 <br />
@@ -175,7 +173,7 @@ function App() {
             </div>
             <div className="col-10 col-md-6 mt-4 mt-md-0">
               <div className="progress-card ms-3  ms-md-0">
-                <div className="circular-progress reactjs">
+                <div className="circular-progress p50">
                   <span className="progress-value reactjs-progress">50%</span>
                 </div>
                 <br/>
