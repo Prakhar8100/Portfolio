@@ -195,7 +195,7 @@ function App() {
             <button className="c-btn h-btn mt-3 py-3 px-5 rounded-pill">
              
               <a
-                href="Entry Level Web Developer Resume.pdf"
+                href="PrakharCV-1.pdf"
                 download="PrakharCV-1.pdf"
                 style={{textdecoration: "none",color:"purple"}}
                 >Download CV</a
