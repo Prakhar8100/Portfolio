@@ -196,7 +196,7 @@ function App() {
              
               <a
                 href="Entry Level Web Developer Resume.pdf"
-                download="Prakhar CV-1.htm"
+                download="PrakharCV-1.pdf"
                 style={{textdecoration: "none",color:"purple"}}
                 >Download CV</a
               >
